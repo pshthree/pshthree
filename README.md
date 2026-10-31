@@ -16,8 +16,8 @@ umer_qadri :: Senior Penetration Tester — Karachi, PK
 
 └─$ cat about.txt
 [+] 6+ years of hands-on offensive security experience
-[+] 11 assessment types: Web · API · Mobile · Desktop · Network · Active Directory
-                         Cloud · M365 · Source Code · Databases · Social Engineering
+[+] Web · API · Wireless · Desktop · Mobile · Network Pentest
+[+] Browser Extensions Pentest · Cloud Security Assessment
 [+] Build AI pentest agents & custom skills that automate the grind
 ```
 
@@ -25,31 +25,20 @@ umer_qadri :: Senior Penetration Tester — Karachi, PK
 
 | Area | Focus |
 |---|---|
-| 🌐 **Web & API** | OWASP Top 10, business logic, auth/authz bypass, IDOR, SSRF, injection, request smuggling |
+| 🌐 **Web Application** | OWASP Top 10, business logic, auth/authz bypass, IDOR, SSRF, injection |
+| 🔌 **API** | REST & GraphQL — broken object/function level auth, mass assignment, rate limiting, request smuggling |
+| 📡 **Wireless** | WPA2/WPA3 & enterprise Wi-Fi, rogue AP / evil twin, network segmentation |
+| 🖥️ **Desktop** | Thick-client apps — traffic interception, insecure local storage, DLL hijacking, binary analysis |
 | 📱 **Mobile** | Android & iOS — black, grey and white box |
-| 🏰 **Active Directory** | Enumeration, lateral movement, privilege escalation, domain compromise |
-| ☁️ **Cloud & M365** | Cloud and Microsoft 365 security assessments |
-| 🔍 **White-box** | Source code review |
-| 🎣 **Human surface** | Org-level OSINT and phishing simulations |
-| 🧩 **Other** | Desktop apps, browser extensions, wireless, databases |
-
-### 🤖 AI-Powered Pentesting
-
-I design AI agents and custom skills that speed up the repetitive parts of an engagement:
-
-- **Recon & scan triage** — raw Nmap output → report-ready host tables
-- **Attack-surface checklists** — Web, API and AD (SQLi, SSRF, IDOR, XSS, request smuggling, and more)
-- **Validation workflows** — vulnerability validation, hash identification and cracking
-- **Reporting** — drafting findings for human review
-
-> The agent speeds up the grind; every finding is still manually verified before it reaches a client.
+| 🛰️ **Network** | Internal & external — enumeration, service exploitation, lateral movement, privilege escalation |
+| 🧩 **Browser Extensions** | Manifest permissions, content-script injection, message passing, sensitive data leakage |
+| ☁️ **Cloud Security** | AWS & Azure / M365 configuration review, IAM misconfigurations, exposed services |
 
 ### 🛠️ Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/BloodHound-A0001B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/NetExec-6B21A8?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Impacket-3776AB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
